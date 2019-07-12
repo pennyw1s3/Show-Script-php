@@ -14,7 +14,7 @@ Tools ini gunanya buat ngelihan script php lu
 * `sh show.sh`
 # Author
 * Tn.PENNYWISE
-# NO WA
+# CHAT GW VIA WA :V
 [WHATSAPP](https://api.whatsapp.com/send?phone=6283871259489&text=Assalamu'alaikum%20Akhii%20:v)
 # LINK BLOG
-[WEBSITE](mukalukayaintegral.blogspot.com)
+[WEBSITE](https://mukalukayaintegral.blogspot.com/?m=1)
