@@ -1,5 +1,5 @@
 # Show-Script-php
-Tools ini gunanya buat ngelihan script php lu
+Tools ini gunanya buat ngeliha script php lu
 # Screenshot
 ![1](https://github.com/pennyw1s3/Show-Script-php/blob/master/show.png)
 # Command
