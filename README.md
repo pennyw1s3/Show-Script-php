@@ -17,4 +17,4 @@ Tools ini gunanya buat ngelihan script php lu
 # NO WA
 * 083871259489
 # LINK BLOG
-![2](mukalukayaintegral.blogspot.com)
+!(mukalukayaintegral.blogspot.com)
