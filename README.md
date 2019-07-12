@@ -15,6 +15,6 @@ Tools ini gunanya buat ngelihan script php lu
 # Author
 * Tn.PENNYWISE
 # NO WA
-* 083871259489
+![WHATSAPP](083871259489)
 # LINK BLOG
-!(mukalukayaintegral.blogspot.com)
+![WEBSITE](mukalukayaintegral.blogspot.com)
